@@ -11,7 +11,7 @@
 
 ## Pandas + Matplotlib
 
-Pandas DataFrame objects use another library, known as Matplotlib, behind the scenes.
+Pandas DataFrame objects use another library, known as [Matplotlib](https://matplotlib.org/), behind the scenes.
 
 This means you can use Matplotlib functions in combination with Pandas methods to alter plots after drawing them.
 
