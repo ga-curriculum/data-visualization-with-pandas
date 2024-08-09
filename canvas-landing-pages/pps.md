@@ -1,4 +1,3 @@
-<!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
   <span class="headline">Data Visualization with Pandas</span>
@@ -10,8 +9,8 @@ In this module, students will learn the fundamentals of data visualization using
 
 ## Content
 
-| Lesson                                                                              | Skills                                                                                              |
-| ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Lesson                                                                             | Skills                                                                                              |
+| ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | [Setup](../setup/README.md)                                                         | Setting up the development environment.                                                             |
 | [Intro to Data Visualization](../intro-to-data-visualization/README.md)             | Understand where data visualization fits into a data analytics workflow                             |
 | [Data Visualization Best Practices](../data-visualization-best-practices/README.md) | Learning how to choose the right chart type, simplifying data, and clearly labeling visualizations. |

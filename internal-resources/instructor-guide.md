@@ -16,8 +16,8 @@ In this lesson, students will learn how to use the Pandas library to visualize d
 In this Module students will:
 
 - Explain the characteristics of a great data visualization.
-- Identify when to use a bar chart, pie chart, line chart, scatter plot, or histogram.
-- Use Pandas to implement line charts, bar charts, scatter plots, and histograms.
+- Identify when to use a bar chart, pie chart, line chart, scatterplot, or histogram.
+- Use Pandas to implement line charts, bar charts, scatterplots, and histograms.
 
 ## Pre-Class Materials and Preparation
 
@@ -33,10 +33,11 @@ As you plan for your lesson:
 
 | Time      | Activity                                     |
 | --------- | -------------------------------------------- |
-| 0:00–0:20 | Welcome + Data Visualization Best Practices  |
+| 0:00–0:05 | Welcome + Intro to Data Visualization        |
+| 0:05–0:20 | Data Visualization Best Practices            |
 | 0:20–1:00 | Using Pandas to Visualize Data               |
 | 1:00–1:10 | Break                                        |
-| 1:10–1:50 | Using Pandas to Visualize Data (Cont.)       |
+| 1:10–1:50 | Using Pandas to Visualize Data (cont...)     |
 | 1:50–2:00 | Wrapping Up, Q&A, and Exit Ticket Completion |
 
 ## Jupyter Notebook
