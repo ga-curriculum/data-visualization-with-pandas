@@ -3,7 +3,7 @@
   <span class="subhead">Using Pandas to Visualize Data</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will be able to create and customize various types of data visualizations using Pandas, including line charts, bar charts, histograms, and scatterplots. They will also learn how to choose the appropriate visualization based on the data and the story they wish to tell.
 
 | Lesson                         | Duration |
 | ------------------------------ | -------- |
