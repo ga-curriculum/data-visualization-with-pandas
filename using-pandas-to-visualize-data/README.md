@@ -25,7 +25,7 @@ As we explore different types of plots, notice:
 
 1. **Different types of plots are drawn very similarly** — they even tend to share parameter names.
 
-2. In Pandas, **calling `plot()` on a DataFrame is different than calling it on a Series**. Although the methods are both named “plot,” they may take different parameters.
+2. In Pandas, **calling `plot()` on a DataFrame is different than calling it on a Series**. Although the methods are both named "plot," they may take different parameters.
 
 ## Our First Chart
 
@@ -67,7 +67,7 @@ Let's practice creating line charts in **Section 9.1** of the workbook.
 
 ## Discussion: Counting Games per Country TKTK
 
-If we alter our chart from using the “year” column to using the “country” column, all of a sudden the line chart stops making sense.
+If we alter our chart from using the "year" column to using the "country" column, all of a sudden the line chart stops making sense.
 
 **_What chart should be used instead to compare the amount of games per country?_**
 
