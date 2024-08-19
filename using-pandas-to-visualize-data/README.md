@@ -72,7 +72,7 @@ Let's practice creating line charts in **Section 2.1** of the workbook.
 
 <br>
 
-<div class="activity knowledge-check">
+<div class="activity discussion">
   <h2 class="title">Counting Games per Country</h2>
   <span class="minutes"></span>
 </div>
