@@ -92,9 +92,14 @@ This will provide a clear idea of what you may want to investigate further.
 
 ![Image Placeholder](TKTK)
 
-## Knowledge Check TKTK
+<br>
 
-**Scenario:** Change in average income since 1960 for American adults.
+<div class="activity knowledge-check">
+  <h2 class="title">What graph should I use for...</h2>
+  <span class="minutes">5 min</span>
+</div>
+
+### **Scenario:** Change in average income since 1960 for American adults.
 
 <details>
 <summary>✅ Click to see the answer: </summary>
@@ -104,9 +109,7 @@ Answer: Line charts are ideal for expressing change over time.
 
 </details>
 
-## Knowledge Check TKTK
-
-**Scenario:** Amount of sales per state.
+### **Scenario:** Amount of sales per state.
 
 <details>
 <summary>✅ Click to see the answer: </summary>
@@ -116,9 +119,7 @@ Answer: Bar charts are best for comparing numbers.
 
 </details>
 
-## Knowledge Check TKTK
-
-**Scenario:** Determine if there's a correlation between book length and sales.
+### **Scenario:** Determine if there's a correlation between book length and sales.
 
 <details>
 <summary>✅ Click to see the answer: </summary>

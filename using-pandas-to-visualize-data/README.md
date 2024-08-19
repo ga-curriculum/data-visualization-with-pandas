@@ -17,7 +17,7 @@ This means you can use Matplotlib functions in combination with Pandas methods t
 
 For example, you can use Matplotlib’s `xlabel()` and `title()` functions to label the plot’s x-axis and title, respectively, after it is drawn.
 
-> 🍎 When researching how to get something done with Pandas visualizations, you can look into Matplotlib's functionality as well. You might find more specific customizations for your plots by looking in the Matplotlib documentation instead of the Pandas documentation (although Pandas’ is pretty thorough).
+> 💡 When researching how to get something done with Pandas visualizations, you can look into Matplotlib's functionality as well. You might find more specific customizations for your plots by looking in the Matplotlib documentation instead of the Pandas documentation (although Pandas’ is pretty thorough).
 
 ## The Plot Thickens
 
@@ -39,7 +39,7 @@ data_frame = pd.read_csv(file_address)
 data_frame['column_name'].plot()
 ```
 
-> 🍎 By default, the `.plot()` method will create a line chart. As we’ve seen previously, this won't always be appropriate.
+> 💡 By default, the `.plot()` method will create a line chart. As we’ve seen previously, this won't always be appropriate.
 
 ## Plot Parameters
 
@@ -59,13 +59,23 @@ Customizations can be made using keyword parameters:
 data_frame['column_name'].plot(style={'col1': 'r'}, figsize=(16,9))
 ```
 
-## Guided Walk-Through: 9.1 Line Charts in Pandas 10 min TKTK
+<br>
 
-Let's practice creating line charts in **Section 9.1** of the workbook.
+<div class="activity guided-walkthrough">
+  <h2 class="title">2.1 Line Charts in Pandas</h2>
+  <span class="minutes">10 min</span>
+</div>
+
+Let's practice creating line charts in **Section 2.1** of the workbook.
 
 ![Image Placeholder](TKTK)
 
-## Discussion: Counting Games per Country TKTK
+<br>
+
+<div class="activity knowledge-check">
+  <h2 class="title">Counting Games per Country</h2>
+  <span class="minutes"></span>
+</div>
 
 If we alter our chart from using the "year" column to using the "country" column, all of a sudden the line chart stops making sense.
 
@@ -79,9 +89,14 @@ The answer is a bar chart, as our intention is to compare numbers in a single co
 
 </details>
 
-## Partner Exercise: 9.2 Bar Charts 15 min TKTK
+<br>
 
-Let’s use the same data set to start creating bar charts in **Section 9.2**.
+<div class="activity partner-exercise">
+  <h2 class="title">2.2 Bar Charts</h2>
+  <span class="minutes">15 min</span>
+</div>
+
+Let’s use the same data set to start creating bar charts in **Section 2.2**.
 
 ![Image Placeholder](TKTK)
 
@@ -99,9 +114,14 @@ Another common chart style is a **histogram**, which plots the distribution of v
 
 - With bar charts, however, the x-axis does not have a low end or a high end. This is because the labels on the x-axis are categorical, not quantitative.
 
-## Guided Walk-Through: 9.3 Histograms 10 min TKTK
+<br>
 
-Let’s look at some of the challenges of histograms in **Section 9.3**.
+<div class="activity guided-walkthrough">
+  <h2 class="title">2.3 Histograms</h2>
+  <span class="minutes">10 min</span>
+</div>
+
+Let’s look at some of the challenges of histograms in **Section 2.3**.
 
 ![Image Placeholder](TKTK)
 
@@ -115,15 +135,25 @@ data_frame.plot(kind='scatter', x='column_a', y='column_b')
 
 Scatterplots are most useful when values are **continuous**, rather than discrete with large gaps.
 
-> 🍎 When used with discrete values, scatterplots will have large, hard-to-interpret clumps around those discrete values, making trend lines more difficult to picture.
+> 💡 When used with discrete values, scatterplots will have large, hard-to-interpret clumps around those discrete values, making trend lines more difficult to picture.
 
-## Guided Walk-Through: 9.4 Scatterplots 10 min TKTK
+<br>
 
-Let's practice using scatterplots to investigate correlations in **Section 9.4**.
+<div class="activity guided-walkthrough">
+  <h2 class="title">2.4 Scatterplots</h2>
+  <span class="minutes">10 min</span>
+</div>
+
+Let's practice using scatterplots to investigate correlations in **Section 2.4**.
 
 ![Image Placeholder](TKTK)
 
-## Group Exercise: 9.5 Visual Storytelling With Data 25 min TKTK
+<br>
+
+<div class="activity group-exercise">
+  <h2 class="title">2.5 Visual Storytelling With Data</h2>
+  <span class="minutes">25 min</span>
+</div>
 
 Working with the Superstore data set, use **exploratory data analysis methods** and **at least one data visualization** to communicate trends, outliers, and a hypothesis surrounding the data.
 
