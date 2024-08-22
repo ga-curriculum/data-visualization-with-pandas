@@ -15,7 +15,7 @@
 - Identify when to use a bar chart, pie chart, line chart, scatterplot, or histogram.
 - Use Pandas to implement line charts, bar charts, scatterplots, and histograms.
 
-![Image Placeholder](TKTK)
+<!-- ![Image Placeholder](TKTK) -->
 
 ## The Data Analytics Workflow
 

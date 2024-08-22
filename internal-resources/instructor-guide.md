@@ -37,12 +37,12 @@ As you plan for your lesson:
 | 0:05–0:20 | Data Visualization Best Practices            |
 | 0:20–1:00 | Using Pandas to Visualize Data               |
 | 1:00–1:10 | Break                                        |
-| 1:10–1:50 | Using Pandas to Visualize Data (cont...)     |
+| 1:10–1:50 | Using Pandas to Visualize Data (continued)   |
 | 1:50–2:00 | Wrapping Up, Q&A, and Exit Ticket Completion |
 
 ## Jupyter Notebook
 
-The exercises referenced in this lesson can be found in the [Python Workbooks Repo](#).
+The exercises referenced in this lesson can be found in the [Python Data Exercises Repo](https://git.generalassemb.ly/modular-curriculum-all-courses/python-data-exercises).
 
 Our first few lessons begin by reviewing the notebook as the same material was covered in the pre-work.
 

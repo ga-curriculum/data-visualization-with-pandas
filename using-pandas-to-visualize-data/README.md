@@ -68,7 +68,7 @@ data_frame['column_name'].plot(style={'col1': 'r'}, figsize=(16,9))
 
 Let's practice creating line charts in **Section 2.1** of the workbook.
 
-![Image Placeholder](TKTK)
+<!-- ![Image Placeholder](TKTK) -->
 
 <br>
 
@@ -98,7 +98,7 @@ The answer is a bar chart, as our intention is to compare numbers in a single co
 
 Let’s use the same data set to start creating bar charts in **Section 2.2**.
 
-![Image Placeholder](TKTK)
+<!-- ![Image Placeholder](TKTK) -->
 
 ## Bar Charts vs. Histograms
 
@@ -123,7 +123,7 @@ Another common chart style is a **histogram**, which plots the distribution of v
 
 Let’s look at some of the challenges of histograms in **Section 2.3**.
 
-![Image Placeholder](TKTK)
+<!-- ![Image Placeholder](TKTK) -->
 
 ## Scatterplots
 
@@ -146,7 +146,7 @@ Scatterplots are most useful when values are **continuous**, rather than discret
 
 Let's practice using scatterplots to investigate correlations in **Section 2.4**.
 
-![Image Placeholder](TKTK)
+<!-- ![Image Placeholder](TKTK) -->
 
 <br>
 
@@ -157,4 +157,4 @@ Let's practice using scatterplots to investigate correlations in **Section 2.4**
 
 Working with the Superstore data set, use **exploratory data analysis methods** and **at least one data visualization** to communicate trends, outliers, and a hypothesis surrounding the data.
 
-![Image Placeholder](TKTK)
+<!-- ![Image Placeholder](TKTK) -->

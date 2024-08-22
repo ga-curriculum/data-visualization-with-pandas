@@ -15,7 +15,7 @@ In this module, students will learn the fundamentals of data visualization using
 | 0:05–0:20 | Data Visualization Best Practices            |
 | 0:20–1:00 | Using Pandas to Visualize Data               |
 | 1:00–1:10 | Break                                        |
-| 1:10–1:50 | Using Pandas to Visualize Data (cont...)     |
+| 1:10–1:50 | Using Pandas to Visualize Data (continued)   |
 | 1:50–2:00 | Wrapping Up, Q&A, and Exit Ticket Completion |
 
 ## Content
