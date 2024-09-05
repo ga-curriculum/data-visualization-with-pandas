@@ -123,7 +123,7 @@ Another common chart style is a **histogram**, which plots the distribution of v
 
 Let’s look at some of the challenges of histograms in **Section 2.3**.
 
-<img src="./assets/histogram.png" alt="Histogram Image" style="width: 300px; height: auto;">
+<img src="./assets/histogram.png" alt="Histogram Image" style="width: 400px; height: auto;">
 
 ## Scatterplots
 
@@ -134,6 +134,8 @@ data_frame.plot(kind='scatter', x='column_a', y='column_b')
 ```
 
 Scatterplots are most useful when values are **continuous**, rather than discrete with large gaps.
+
+<img src="./assets/scatterplot.png" alt="Scatterplot Chart Image" style="width: 400px; height: auto;">
 
 > 💡 When used with discrete values, scatterplots will have large, hard-to-interpret clumps around those discrete values, making trend lines more difficult to picture.
 
