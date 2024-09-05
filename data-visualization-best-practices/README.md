@@ -26,7 +26,7 @@ Because of the way the human brain processes information, charts or graphs that 
 
 Data visualization is a quick, easy way to convey concepts in a universal manner, and you can experiment with different scenarios by making slight adjustments.
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/data-trend.png" alt="Data Trend Chart Image" style="width: 300px; height: auto;">
 
 ## Criteria for Good Visualizations
 
@@ -43,7 +43,7 @@ With so many chart types, it can be difficult to know how best to display your d
 
 When creating a visualization, first think about the **variables** you are displaying, the **volume** of data you’re showcasing, and the **central point you are hoping to communicate** through your visualization.
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/magnifying-glass.png" alt="Magnifying Glass Image" style="width: 200px; height: auto;">
 
 - Choosing the wrong type of chart for a given data point can result in audience confusion or even be downright misleading.
 - If you're unsure of which chart type to use, it may be that you don't have a clear enough point you're trying to make with the chart.
@@ -60,7 +60,7 @@ When thinking about using a bar chart, consider:
 - How will you number your axis (it is always best to start at zero)?
 - How will you order your bars?
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/bar-chart.png" alt="Bar Chart Image" style="width: 400px; height: auto;">
 
 ## Pie Charts
 
@@ -74,7 +74,7 @@ When thinking about using a pie chart, consider:
 - Area is very difficult for the eye to read, so if any of your wedges are similar in size, consider using a different chart type.
 - If your viewer has to work hard to translate pie wedges into relevant data or compare pie charts to one another, the key points you're trying to convey might go unnoticed.
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/pie-chart.png" alt="Pie Chart Image" style="width: 400px; height: auto;">
 
 ## Line Charts
 
@@ -82,7 +82,7 @@ When thinking about using a pie chart, consider:
 
 While bar charts can also display time, they don’t show it in a continuous way.
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/line-chart.png" alt="Line Chart Image" style="width: 400px; height: auto;">
 
 ## Scatterplots
 
@@ -90,7 +90,7 @@ While bar charts can also display time, they don’t show it in a continuous way
 
 This will provide a clear idea of what you may want to investigate further.
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/scatterplot.png" alt="Scatterplot Chart Image" style="width: 400px; height: auto;">
 
 <br>
 

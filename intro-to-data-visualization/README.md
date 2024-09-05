@@ -15,11 +15,11 @@
 - Identify when to use a bar chart, pie chart, line chart, scatterplot, or histogram.
 - Use Pandas to implement line charts, bar charts, scatterplots, and histograms.
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/learning-objectives.png" alt="Clipboard Image" style="width: 300px; height: auto;">
 
 ## The Data Analytics Workflow
 
 - **Interpret:** Leverage your analysis to make decisions and recommendations.
 - **Communicate:** Present data-driven findings and insights in a compelling manner.
 
-![Image Placeholder](./assets/workflow.png)
+<img src="./assets/workflow-2.png" alt="The Data Analytics Workflow - Interpret + Communicate" style="width: 500px; height: auto;">
